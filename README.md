@@ -95,8 +95,6 @@ s.close()
 
 
 ## Output
-netstat:
-![alt text](image.png)
 
 ip config:
 ![alt text](image-1.png)
