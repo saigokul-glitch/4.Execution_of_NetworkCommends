@@ -25,7 +25,8 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
-# Program: 
+
+ # Program: 
 server:
 ```
 import socket
@@ -89,7 +90,7 @@ while True:
 
 s.close()
 ```
-```
+
 
 
 
